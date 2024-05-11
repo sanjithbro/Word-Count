@@ -36,7 +36,7 @@ with open("story.txt","r") as f1:
 print("The number of words are in the file is ",num)
 ```
 ### OUTPUT:
-
+![image](https://github.com/sanjithbro/Word-Count/assets/167451460/4aebedc3-8453-437c-b0b3-a0fd2cd0c75c)
 
 
 ## RESULT:
