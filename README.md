@@ -24,10 +24,10 @@ Input the values
 End the program
 
 ## PROGRAM:
+```python
 program to find the number of words in a text file
 Developed by :R.Sanjith
 Register number : 212223230191
-```python
 num=0
 with open("story.txt","r") as f1:
     for i in f1:
